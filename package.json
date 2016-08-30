@@ -1,0 +1,17 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "assets": "^2.1.0",
+    "mongoose": "^4.5.9",
+    "mongoose-currency": "^0.2.0"
+  }
+}
